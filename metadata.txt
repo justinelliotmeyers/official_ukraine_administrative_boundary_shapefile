@@ -1,0 +1,9 @@
+Source:
+OCHA Ukraine
+ДНВП Картографія
+http://www.ukrmap.com.ua/
+
+license: 	
+Creative Commons Attribution for Intergovernmental Organisations
+http://creativecommons.org/licenses/by/3.0/igo/legalcode
+Under the CC BY-IGO license, you are free to share (copy and redistribute the material in any medium or format) and or adapt (remix, transform, and build upon the material) for any purpose, even commercially. The licensor cannot revoke these freedoms as long as you follow the license terms. The license terms are that you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. Additionally, you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. When the Licensor is an intergovernmental organization, disputes will be resolved by mediation and arbitration unless otherwise agreed.
